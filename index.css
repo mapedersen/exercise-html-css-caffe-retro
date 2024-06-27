@@ -94,7 +94,7 @@ main {
 
 .usp p {
     font-size: 1.5rem;
-    background-color: darkred;
+    background-color: #8b0000bd;
     color: white;
     padding: 20px;
     text-align: center;
@@ -106,7 +106,7 @@ main {
     flex-direction: column;
     width: 60%;
     max-width: 800px;
-    background-color: #1a1a1a;
+    background-color: #1a1a1ad6;
     padding: 20px;
 }
 
