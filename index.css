@@ -1,0 +1,22 @@
+body {
+    font-family: "Poiret One", sans-serif;
+    font-family: "Spirax", sans-serif;
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    background-color: #453138;
+    justify-content: center;
+}
+
+.nav-item {
+    font-size: 3rem;
+    margin: 1rem;
+    color: white;
+}
+
+.product {
+    display: flex;
+    justify-content: space-between;
+}
