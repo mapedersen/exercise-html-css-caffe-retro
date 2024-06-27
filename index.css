@@ -125,7 +125,15 @@ main {
 @media screen and (max-width: 600px) {
 
     #hot {
-        height: 50vh;
+        height: 100vh;
+    }
+
+    #juicy {
+        height: 100vh;
+    }
+
+    #cosy {
+        height: 100vh;
     }
 
     .nav-item a {
