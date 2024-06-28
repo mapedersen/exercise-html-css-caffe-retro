@@ -41,7 +41,7 @@ header h1 {
 .section {
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 70vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
