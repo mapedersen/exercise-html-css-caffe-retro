@@ -38,28 +38,25 @@ header h1 {
     margin: 0;
 }
 
-#hot {
-    background-image: url(assets/hot.jpg);
+.section {
+    background-repeat: no-repeat;
+    background-size: cover;
     min-height: 70vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
+#hot {
+    background-image: url(assets/hot.jpg);
+}
+
 #juicy {
     background-image: url(assets/juicy.jpg);
-    min-height: 60vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
 }
 
 #cosy {
     background-image: url(assets/cosy.jpg);
-    min-height: 60vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
 }
 
 main {
